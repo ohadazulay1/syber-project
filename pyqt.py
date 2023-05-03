@@ -23,6 +23,7 @@ class FirstWindow(QMainWindow):
 
     def clicked(self):
         print("Clicked")
+        #comment 123
 
 def firstWindow():
     app = QApplication(sys.argv)
